@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fa8cad;
+}
+
+header{
+    background-color: #e41266;
+    color: #000000;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+#weather-container {
+    margin-bottom: 20px;
+}
+
+#weather-info {
+    margin-top: 20px;
+}
+
+#dynamic-effects {
+    margin-top: 20px;
+}
